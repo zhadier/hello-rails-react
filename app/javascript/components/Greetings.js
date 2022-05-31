@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import PropTypes from 'prop-types';
 import { getMessagesFromAPI } from '../redux/Messages/messages';
 
-const HelloRailsReact = () => {
+const Greetings = () => {
   const selected = useSelector((state) => state.messages);
   const dispatch = useDispatch();
 
@@ -21,4 +21,4 @@ const HelloRailsReact = () => {
   );
 };
 
-export default HelloRailsReact;
+export default Greetings;

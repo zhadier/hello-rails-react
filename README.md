@@ -2,23 +2,18 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Budget App
+# Hello Rails React
 
-> "Blog App" is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
-
-![screenshot](peek.gif)
+> "Hello Rails React" is a Full stack practice app to integrate react in the front end and rails in the backend using react-rails gem
 
 ## Built With
 
+- React
 - Ruby
 - Rails
 - Postgres
 
 ## Getting Started
-
-## Live Demo
-
-[Heroku](https://budget-app-zhadier.herokuapp.com/)
 
 ## Video Demo
 
@@ -31,13 +26,13 @@
 - Clone this repo locally using git in the command line and the following command
 
 ```bash
-> git clone git@github.com:zhadier/budget-app.git
+> git clone git@github.com:zhadier/hello-rails-react.git
 ```
 
 - Then cd into the directory using
 
 ```bash
-> cd blog-app
+> cd hello-rails-react
 ```
 
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
